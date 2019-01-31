@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/java-reflection.svg?branch=master)](https://travis-ci.com/mtumilowicz/java-reflection)
+
 # java-reflection
 _Reference_: https://www.amazon.com/Java-Language-Features-Modules-Expressions/dp/1484233476
 
