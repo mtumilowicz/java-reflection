@@ -40,3 +40,4 @@ but we **can't:**
 
 # projects
 * https://github.com/mtumilowicz/java11-reflection-classes
+* https://github.com/mtumilowicz/java11-reflection-fields
