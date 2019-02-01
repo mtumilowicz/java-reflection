@@ -41,3 +41,6 @@ but we **can't:**
 # projects
 * https://github.com/mtumilowicz/java11-reflection-classes
 * https://github.com/mtumilowicz/java11-reflection-fields
+* https://github.com/mtumilowicz/java11-reflection-executables
+    * https://github.com/mtumilowicz/java11-reflection-methods
+    * https://github.com/mtumilowicz/java11-reflection-constructors 
