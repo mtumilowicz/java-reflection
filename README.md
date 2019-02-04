@@ -35,7 +35,7 @@ Intercession is supported in a very limited way, we can:
 * get/set fields
 
 but we **can't:**
-* change the data structure at runtime (add a new field or a method):
+* change the data structure at runtime (add a new field or a method)
 * change the method execution (behavioral intercession)
 
 # projects
