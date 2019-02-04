@@ -43,4 +43,7 @@ but we **can't:**
 * https://github.com/mtumilowicz/java11-reflection-fields
 * https://github.com/mtumilowicz/java11-reflection-executables
     * https://github.com/mtumilowicz/java11-reflection-methods
-    * https://github.com/mtumilowicz/java11-reflection-constructors 
+    * https://github.com/mtumilowicz/java11-reflection-constructors
+* https://github.com/mtumilowicz/java11-reflection-creating-objects
+* https://github.com/mtumilowicz/java11-reflection-invoking-methods
+* https://github.com/mtumilowicz/java11-reflection-accessing-fields
