@@ -47,3 +47,7 @@ but we **can't:**
 * https://github.com/mtumilowicz/java11-reflection-creating-objects
 * https://github.com/mtumilowicz/java11-reflection-invoking-methods
 * https://github.com/mtumilowicz/java11-reflection-accessing-fields
+* https://github.com/mtumilowicz/java11-deep-reflection
+   * https://github.com/mtumilowicz/java11-deep-reflection-unnamed-modules
+   * https://github.com/mtumilowicz/java11-deep-reflection-cross-modules
+   * https://github.com/mtumilowicz/java11-deep-reflection-in-module
