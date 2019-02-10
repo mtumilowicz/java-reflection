@@ -51,3 +51,4 @@ but we **can't:**
    * https://github.com/mtumilowicz/java11-deep-reflection-unnamed-modules
    * https://github.com/mtumilowicz/java11-deep-reflection-cross-modules
    * https://github.com/mtumilowicz/java11-deep-reflection-in-module
+* https://github.com/mtumilowicz/java11-reflection-arrays
